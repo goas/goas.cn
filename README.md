@@ -1,0 +1,2 @@
+# goas.cn
+goas.cn
